@@ -2,9 +2,11 @@
 <html>
   <head>
     <title>Getting Started With GitHUB</title>
-	
-	</head>
+  </head>
+  
   <body>
   <p>First html project with Github</p>
+  <p>add a new edited line into project</p> 
   </body>
+  
 </html>
