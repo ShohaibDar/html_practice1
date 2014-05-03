@@ -6,7 +6,8 @@
   
   <body>
   <p>First html project with Github</p>
-  <p>add a new edited line into project</p> 
+  <p>add a new edited line into project locally</p> 
+  <p>new line added on GitHub</p> 
   </body>
   
 </html>
