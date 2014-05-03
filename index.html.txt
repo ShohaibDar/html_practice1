@@ -1,0 +1,10 @@
+<!doctype html>
+<html>
+  <head>
+    <title>Getting Started With GitHUB</title>
+	
+	</head>
+  <body>
+  <p>First html project with Github</p>
+  </body>
+</html>
